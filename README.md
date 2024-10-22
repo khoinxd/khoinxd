@@ -1,7 +1,7 @@
 [![MasterHead](https://i.im.ge/2024/10/22/k37xd1.yt-cover-final.png)](https://www.youtube.com/@learningwkhoi)
 <h1 align="center">Hi 👋, I'm Nguyen Xuan Dang Khoi</h1>
 <h3 align="center">An Vietnamese who loves learning new things</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khoinxd&label=Profile%20views&color=0e75b6&style=flat" alt="khoinxd" /> </p>
 
