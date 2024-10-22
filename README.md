@@ -1,4 +1,3 @@
-[![MasterHead](https://i.im.ge/2024/10/22/k37xd1.yt-cover-final.png)](https://www.youtube.com/@learningwkhoi)
 <h1 align="center">Hi 👋, I'm Nguyen Xuan Dang Khoi</h1>
 <h3 align="center">An Vietnamese who loves learning new things</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,11 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **Data Engineering, SQL & Python**
+
 - 👨‍💻 All of my projects are available at [https://github.com/khoinxd](https://github.com/khoinxd)
+
+- 📝 I regularly write articles on [https://google.com](https://google.com)
 
 - 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **nguyen.xuandangkhoi.python.edu.vn@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
